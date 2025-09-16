@@ -29,7 +29,8 @@ class Config:
     
     # Telegram Notification Settings
     BOT_TOKEN = "7549764083:AAFXVfvK34OAD83REoBGDLeLorrqTKuq7Gk"
-    CHAT_ID = "5217461051"
+    # CHAT_ID = "5217461051"
+    CHAT_ID = "-4894924380"  # Group chat ID
     COLLISION_MESSAGE = "🚨 🚨 COLLISION DETECTED! 🚨 🚨\n\nVehicle accident detected at {timestamp}\nLocation: https://www.google.com/maps?q=23.798257479710784,90.44980802042723\nAcceleration: X={ax:.2f}g, Y={ay:.2f}g, Z={az:.2f}g"
 
     # WiFi Settings - CHANGE THESE TO YOUR ACTUAL WIFI CREDENTIALS

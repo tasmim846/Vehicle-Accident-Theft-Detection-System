@@ -34,8 +34,8 @@ class Config:
     COLLISION_MESSAGE = "🚨 🚨 COLLISION DETECTED! 🚨 🚨\n\nVehicle accident detected at {timestamp}\nLocation: https://www.google.com/maps?q=23.798257479710784,90.44980802042723\nAcceleration: X={ax:.2f}g, Y={ay:.2f}g, Z={az:.2f}g"
 
     # WiFi Settings - CHANGE THESE TO YOUR ACTUAL WIFI CREDENTIALS
-    WIFI_SSID = "cyberpunk"  # Replace with your WiFi network name
-    WIFI_PASSWORD = "asdf1234"  # Replace with your WiFi password
+    WIFI_SSID = "car-app"  # Replace with your WiFi network name
+    WIFI_PASSWORD = "asdfasdf"  # Replace with your WiFi password
     WIFI_TIMEOUT = 10  # Connection timeout in seconds
 
 # ========================================

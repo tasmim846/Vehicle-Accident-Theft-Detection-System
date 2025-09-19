@@ -36,7 +36,7 @@ class Config:
     # WiFi Settings - CHANGE THESE TO YOUR ACTUAL WIFI CREDENTIALS
     WIFI_SSID = "car-app"  # Replace with your WiFi network name
     WIFI_PASSWORD = "asdfasdf"  # Replace with your WiFi password
-    WIFI_TIMEOUT = 10  # Connection timeout in seconds
+    WIFI_TIMEOUT = 30  # Connection timeout in seconds
 
 # ========================================
 # SENSOR LAYER

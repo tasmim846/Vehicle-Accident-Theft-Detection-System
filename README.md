@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ESP32-S3 Vehicle Collision Detection System
 
 A comprehensive collision detection system using ESP32-S3 microcontroller with MPU6050 accelerometer, buzzer alerts, and Telegram notifications.
@@ -311,3 +312,6 @@ For issues and questions:
 
 ---
 **Made with ❤️ for vehicle safety**
+=======
+# Vehicle-Accident-Theft-Detection-System
+>>>>>>> 251e6f15d576ef07d19e0ad23316e4c91b1b51ae
